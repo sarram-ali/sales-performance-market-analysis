@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=#B897FF&height=220&section=header&text=Consumer%20Electronics%20Sales%20Analysis&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=#B897FF&height=320&section=header&text=Consumer%20Electronics%20Sales%20Analysis&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 </p>
 
 <h2 align="center">📊 Transforming Sales Data into Business Intelligence</h2>
